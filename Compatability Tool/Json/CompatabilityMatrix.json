@@ -1,0 +1,164 @@
+﻿{
+  "compatibility": [
+    {
+      "deviceID1": 1,
+      "deviceID2": 2,
+      "masterVersion": 2.0,
+      "minVersion": 4.0,
+      "maxVersion": 5.0
+    },
+
+    {
+      "deviceID1": 1,
+      "deviceID2": 3,
+      "masterVersion": 2.0,
+      "minVersion": 1.2,
+      "maxVersion": 1.2
+    },
+
+    {
+      "deviceID1": 1,
+      "deviceID2": 4,
+      "masterVersion": 2.0,
+      "minVersion": 1.3,
+      "maxVersion": 1.3
+    },
+
+    {
+      "deviceID1": 1,
+      "deviceID2": 5,
+      "masterVersion": 2.0,
+      "minVersion": 1.4,
+      "maxVersion": 3.0
+    },
+
+    {
+      "deviceID1": 2,
+      "deviceID2": 1,
+      "masterVersion": 4.0,
+      "minVersion": 1.0,
+      "maxVersion": 2.0
+    },
+
+    {
+      "deviceID1": 2,
+      "deviceID2": 3,
+      "masterVersion": 5.0,
+      "minVersion": 1.2,
+      "maxVersion": 1.2
+    },
+
+    {
+      "deviceID1": 2,
+      "deviceID2": 4,
+      "masterVersion": 1.1,
+      "minVersion": 1.3,
+      "maxVersion": 1.3
+    },
+
+    {
+      "deviceID1": 2,
+      "deviceID2": 5,
+      "masterVersion": 1.1,
+      "minVersion": 1.4,
+      "maxVersion": 3.0
+    },
+
+    {
+      "deviceID1": 3,
+      "deviceID2": 1,
+      "masterVersion": 1.2,
+      "minVersion": 1.0,
+      "maxVersion": 2.0
+    },
+
+    {
+      "deviceID1": 3,
+      "deviceID2": 2,
+      "masterVersion": 1.2,
+      "minVersion": 1.1,
+      "maxVersion": 1.1
+    },
+
+    {
+      "deviceID1": 3,
+      "deviceID2": 4,
+      "masterVersion": 1.2,
+      "minVersion": 1.3,
+      "maxVersion": 1.3
+    },
+
+    {
+      "deviceID1": 3,
+      "deviceID2": 5,
+      "masterVersion": 1.2,
+      "minVersion": 1.4,
+      "maxVersion": 5.0
+    },
+
+    {
+      "deviceID1": 4,
+      "deviceID2": 1,
+      "masterVersion": 1.3,
+      "minVersion": 1.0,
+      "maxVersion": 1.0
+    },
+
+    {
+      "deviceID1": 4,
+      "deviceID2": 2,
+      "masterVersion": 1.3,
+      "minVersion": 1.1,
+      "maxVersion": 1.1
+    },
+
+    {
+      "deviceID1": 4,
+      "deviceID2": 3,
+      "masterVersion": 1.3,
+      "minVersion": 1.2,
+      "maxVersion": 1.2
+    },
+
+    {
+      "deviceID1": 4,
+      "deviceID2": 5,
+      "masterVersion": 1.3,
+      "minVersion": 1.4,
+      "maxVersion": 3.0
+    },
+
+    {
+      "deviceID1": 5,
+      "deviceID2": 1,
+      "masterVersion": 3.0,
+      "minVersion": 1.0,
+      "maxVersion": 2.0
+    },
+
+    {
+      "deviceID1": 5,
+      "deviceID2": 2,
+      "masterVersion": 3.0,
+      "minVersion": 1.1,
+      "maxVersion": 1.1
+    },
+
+    {
+      "deviceID1": 5,
+      "deviceID2": 3,
+      "masterVersion": 3.0,
+      "minVersion": 1.2,
+      "maxVersion": 1.2
+    },
+
+    {
+      "deviceID1": 5,
+      "deviceID2": 4,
+      "masterVersion": 3.0,
+      "minVersion": 1.3,
+      "maxVersion": 1.3
+    }
+
+  ]
+}

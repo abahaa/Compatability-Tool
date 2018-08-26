@@ -1,0 +1,11 @@
+F:\Compatability Tool\TestingApp\bin\Debug\netcoreapp2.0\TestingApp.deps.json
+F:\Compatability Tool\TestingApp\bin\Debug\netcoreapp2.0\TestingApp.runtimeconfig.json
+F:\Compatability Tool\TestingApp\bin\Debug\netcoreapp2.0\TestingApp.runtimeconfig.dev.json
+F:\Compatability Tool\TestingApp\bin\Debug\netcoreapp2.0\TestingApp.dll
+F:\Compatability Tool\TestingApp\bin\Debug\netcoreapp2.0\TestingApp.pdb
+F:\Compatability Tool\TestingApp\obj\Debug\netcoreapp2.0\TestingApp.csprojResolveAssemblyReference.cache
+F:\Compatability Tool\TestingApp\obj\Debug\netcoreapp2.0\TestingApp.csproj.CoreCompileInputs.cache
+F:\Compatability Tool\TestingApp\obj\Debug\netcoreapp2.0\TestingApp.AssemblyInfoInputs.cache
+F:\Compatability Tool\TestingApp\obj\Debug\netcoreapp2.0\TestingApp.AssemblyInfo.cs
+F:\Compatability Tool\TestingApp\obj\Debug\netcoreapp2.0\TestingApp.dll
+F:\Compatability Tool\TestingApp\obj\Debug\netcoreapp2.0\TestingApp.pdb

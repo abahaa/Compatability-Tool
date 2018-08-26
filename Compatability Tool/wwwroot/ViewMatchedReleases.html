@@ -1,0 +1,51 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script src="Scripts/vue.js"></script>
+    <script src="Scripts/vue-router.js"></script>
+    <script src="Scripts/axios.min.js"></script>
+
+</head>
+<body>
+
+    <a href="default.html">Upload new Matrix</a>
+    
+    <div id="view">
+
+
+        <label for="select1">Master Device : </label>
+        <select v-model ="selectedComp1" id="select1" @change="GetReleases">
+            <option v-for="option in options" v-bind:value="option.id">{{ option.name }}</option>
+        </select>
+
+        <br />
+        <br />
+
+        <label for="select2">Dependant Device : </label>
+        <select v-model="selectedComp2" id="select2">
+            <option v-for="option in options" v-bind:value="option.id" >{{ option.name }}</option>
+        </select>
+
+        <br />
+        <br />
+
+        <label for="select3" v-if="show">Releases : </label>
+        <select v-model="selectID" id="select3" v-if="show">
+            <option v-for="option in releases" >{{ option }}</option>
+        </select>
+
+        <br />
+        <br />
+
+        <button v-on:click="GetMatchedVersions" v-if="show">Get Matched Releases</button>
+
+        <div v-html="MatchedReleases"></div>
+
+    </div>
+    <script src="Scripts/ViewCompatabileVersionScript.js" type="module"></script>
+
+
+</body>
+</html>

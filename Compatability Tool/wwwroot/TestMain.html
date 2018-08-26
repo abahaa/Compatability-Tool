@@ -1,0 +1,66 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script src="Scripts/vue.js"></script>
+    <script src="Scripts/vue-router.js"></script>
+</head>
+<body>
+
+    <div id="app">
+        <h1>Default Page</h1>
+
+        <router-link to="/Test1">Go to test1</router-link>
+        <router-link to="/Test2">Go to test2</router-link>
+
+
+        <router-view></router-view>
+    </div>
+
+    <script>
+        import App from './Hello.vue'
+
+        const Test1 = {
+            template: '#Test1-template'
+        }
+
+        const Test2 = {
+            template: '<App/>'
+        }
+
+        const routes = [
+            { path: '/Test1', component: Test1 },
+            { path: '/Test2', component: Test2 },
+        ]
+        const router = new VueRouter({
+            routes // short for `routes: routes`
+        })
+
+        var app = new Vue({
+            router,
+            el: '#app',
+            data: {
+            },
+            methods: {
+            }
+        });
+    </script>
+
+    <script type="text/x-template" id="Test1-template">
+        <div>
+            <h1>Hi I am Test1</h1>
+            <p>loream Paragraph kosonaiadassa</p>
+        </div>
+    </script>
+
+    <script type="text/x-template" id="Test2-template">
+        <div>
+            <h1>Hi I am Test22222</h1>
+            <p>loream Paragraph kosonaiadassa</p>
+        </div>
+
+    </script>
+
+</body>
+</html>

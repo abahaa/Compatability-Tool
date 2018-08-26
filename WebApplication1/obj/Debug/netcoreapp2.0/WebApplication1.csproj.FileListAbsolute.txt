@@ -1,0 +1,11 @@
+F:\Compatability Tool\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.deps.json
+F:\Compatability Tool\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.runtimeconfig.json
+F:\Compatability Tool\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.runtimeconfig.dev.json
+F:\Compatability Tool\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.dll
+F:\Compatability Tool\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.pdb
+F:\Compatability Tool\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.csprojResolveAssemblyReference.cache
+F:\Compatability Tool\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.csproj.CoreCompileInputs.cache
+F:\Compatability Tool\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.AssemblyInfoInputs.cache
+F:\Compatability Tool\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.AssemblyInfo.cs
+F:\Compatability Tool\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.dll
+F:\Compatability Tool\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.pdb

@@ -1,0 +1,11 @@
+F:\Compatability Tool\CompatabilityLiberaryCore1\bin\Debug\netcoreapp2.0\CompatabilityLiberaryCore1.deps.json
+F:\Compatability Tool\CompatabilityLiberaryCore1\bin\Debug\netcoreapp2.0\CompatabilityLiberaryCore1.runtimeconfig.json
+F:\Compatability Tool\CompatabilityLiberaryCore1\bin\Debug\netcoreapp2.0\CompatabilityLiberaryCore1.runtimeconfig.dev.json
+F:\Compatability Tool\CompatabilityLiberaryCore1\bin\Debug\netcoreapp2.0\CompatabilityLiberaryCore1.dll
+F:\Compatability Tool\CompatabilityLiberaryCore1\bin\Debug\netcoreapp2.0\CompatabilityLiberaryCore1.pdb
+F:\Compatability Tool\CompatabilityLiberaryCore1\obj\Debug\netcoreapp2.0\CompatabilityLiberaryCore1.csprojResolveAssemblyReference.cache
+F:\Compatability Tool\CompatabilityLiberaryCore1\obj\Debug\netcoreapp2.0\CompatabilityLiberaryCore1.csproj.CoreCompileInputs.cache
+F:\Compatability Tool\CompatabilityLiberaryCore1\obj\Debug\netcoreapp2.0\CompatabilityLiberaryCore1.AssemblyInfoInputs.cache
+F:\Compatability Tool\CompatabilityLiberaryCore1\obj\Debug\netcoreapp2.0\CompatabilityLiberaryCore1.AssemblyInfo.cs
+F:\Compatability Tool\CompatabilityLiberaryCore1\obj\Debug\netcoreapp2.0\CompatabilityLiberaryCore1.dll
+F:\Compatability Tool\CompatabilityLiberaryCore1\obj\Debug\netcoreapp2.0\CompatabilityLiberaryCore1.pdb
